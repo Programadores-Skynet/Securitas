@@ -1,10 +1,10 @@
-
 package securitas;
 
 /**
  *
  * @author Programadores-Skynet
  */
+
 public class Securitas {
 
     /**
